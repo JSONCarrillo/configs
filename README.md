@@ -1,6 +1,8 @@
-# configs
-Custom configurations for Kitty terminal emulator and AwesomeWM
+# Configs
+Configs for the following applications: 
+ 1. Kitty Terminal Emulator
+ 2. AwesomeWM
 
 ## Installation
- 1. Clone the repository into your main directory
- 2. Copy the two folders into .config folder
+    cd ~
+    git clone https://github.com/JSONCarrillo/configs.git .config
