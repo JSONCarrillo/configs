@@ -1,0 +1,3 @@
+[submodule "awesome/themes/widgets"]
+	path = awesome/themes/widgets
+	url = https://github.com/streetturtle/awesome-wm-widgets.git
