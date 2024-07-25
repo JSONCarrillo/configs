@@ -1,0 +1,6 @@
+[submodule "themes/widgets"]
+	path = themes/widgets
+	url = git@github.com:JSONCarrillo/awesome-wm-widgets.git
+[submodule "awesome/themes/widgets"]
+	path = awesome/themes/widgets
+	url = git@github.com:JSONCarrillo/awesome-wm-widgets.git
